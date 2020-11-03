@@ -1,0 +1,4 @@
+variable: biến
+eliminate: loại bỏ 
+
+variable name có thể dài tùy ý. có thể chứa cả chữ cả số nhưng phải bắt đầu bằng 1 chữ cái hoặc dấu gạch dưới "_"
